@@ -46,6 +46,6 @@ if(value == "other"){
 }
 
 if(value == "github"){
-  five.reply({content:`> https://github.com/Bes-js/advanced-music-bot`,ephemeral:true})
+  five.reply({content:`> Alg0ritma Yapımcısı`,ephemeral:true})
 }
 })
